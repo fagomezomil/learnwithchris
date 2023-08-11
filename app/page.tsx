@@ -33,7 +33,7 @@ export default function Home() {
       </div>
       <div className="text-center py-8 bg-green-500">
         <a
-          href="https://api.whatsapp.com/send?phone=603022372"
+          href="https://api.whatsapp.com/send?phone=+34603022372"
           className=" font-bold text-green-500 bg-white px-6 py-3 rounded-lg hover:bg-green-600 hover:text-white"
         >
           Contacto por WhatsApp
